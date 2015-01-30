@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-proxy",
+  "version": "0.0.1",
+  "description": "nodejs http and tcp proxy",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/oskmkr"
+  },
+  "keywords": [
+    "http",
+    "tcp",
+    "proxy"
+  ],
+  "author": "oskmkr",
+  "license": "GPL",
+  "dependencies": {
+    "tcp-proxy": "0.0.1",
+    "http-proxy": "~1.8.1"
+  }
+}
